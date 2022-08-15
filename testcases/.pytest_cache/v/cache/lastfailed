@@ -1,0 +1,19 @@
+{
+  "test_01_login.py::TestNameFormat": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_1___request_node_name____Amey__": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_2___request_node_name____Ameyo__": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_1_invalid_creds": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_2_valid_creds": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_3_title": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_4_voice_campaign": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_5_ext": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_6_phone_number": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_1_title": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_1_test1": true,
+  "test_01_login.py::TestLogin::test_02_verify_title_2_test2": true,
+  "test_01_login.py::TestLogin::test_02_verify_title[Amey]": true,
+  "test_02_ddt_login.py::TestLoginDdt::test_02_verify_title[Amey]": true,
+  "test_03_paramatrize_login.py::TestLoginParams::test_02_verify_title[Amey]": true,
+  "test_03_paramatrize_login.py::TestLoginParams::test_05_agent_login": true,
+  "test_02_ddt_login.py::TestLoginDdt::test_05_agent_login": true
+}

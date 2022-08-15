@@ -1,0 +1,107 @@
+14/08/2022 20:30:48 - INFO - testcases.test_01_login: ********** Starting test_01_verify_title **********
+14/08/2022 20:30:49 - INFO - testcases.test_01_login: ********** test_01_verify_title passed **********
+14/08/2022 20:30:49 - INFO - testcases.test_01_login: ********** Starting test_02_verify_login_page_elems **********
+14/08/2022 20:30:49 - INFO - testcases.test_01_login: ********** Verifying elements on Login Page **********
+14/08/2022 20:30:49 - INFO - testcases.test_01_login: //img[@title='Ameyo']
+14/08/2022 20:30:50 - DEBUG - testcases.test_01_login: //img[@title='Ameyo'] is displayed
+14/08/2022 20:30:50 - INFO - testcases.test_01_login: //h6[normalize-space()='Customer Experience Platform']
+14/08/2022 20:30:51 - DEBUG - testcases.test_01_login: //h6[normalize-space()='Customer Experience Platform'] is displayed
+14/08/2022 20:30:51 - INFO - testcases.test_01_login: //h5[contains(text(),'That Helps Enterprises Connect, Serve and Support ')]
+14/08/2022 20:30:51 - DEBUG - testcases.test_01_login: //h5[contains(text(),'That Helps Enterprises Connect, Serve and Support ')] is displayed
+14/08/2022 20:30:51 - INFO - testcases.test_01_login: //span[contains(text(),'Contact center software')]
+14/08/2022 20:30:52 - DEBUG - testcases.test_01_login: //span[contains(text(),'Contact center software')] is displayed
+14/08/2022 20:30:52 - INFO - testcases.test_01_login: //*[name()='path' and contains(@d,'M7.41 8.59')]
+14/08/2022 20:30:52 - DEBUG - testcases.test_01_login: //*[name()='path' and contains(@d,'M7.41 8.59')] is displayed
+14/08/2022 20:30:52 - INFO - testcases.test_01_login: //p[contains(@class, 'MuiTypography-root mx-4')]
+14/08/2022 20:30:53 - DEBUG - testcases.test_01_login: //p[contains(@class, 'MuiTypography-root mx-4')] is displayed
+14/08/2022 20:30:53 - INFO - testcases.test_01_login: //img[@alt='EN']
+14/08/2022 20:30:53 - DEBUG - testcases.test_01_login: //img[@alt='EN'] is displayed
+14/08/2022 20:30:53 - INFO - testcases.test_01_login: //h5[contains(text(),'Welcome to Ameyo')]
+14/08/2022 20:30:54 - DEBUG - testcases.test_01_login: //h5[contains(text(),'Welcome to Ameyo')] is displayed
+14/08/2022 20:30:54 - INFO - testcases.test_01_login: //span[contains(text(),'visibility_off')]
+14/08/2022 20:30:54 - DEBUG - testcases.test_01_login: //span[contains(text(),'visibility_off')] is displayed
+14/08/2022 20:30:54 - INFO - testcases.test_01_login: //label[.='User ID *']
+14/08/2022 20:30:55 - DEBUG - testcases.test_01_login: //label[.='User ID *'] is displayed
+14/08/2022 20:30:55 - INFO - testcases.test_01_login: //label[.='Password *']
+14/08/2022 20:30:55 - DEBUG - testcases.test_01_login: //label[.='Password *'] is displayed
+14/08/2022 20:30:55 - INFO - testcases.test_01_login: //input[@name='userId']
+14/08/2022 20:30:56 - DEBUG - testcases.test_01_login: //input[@name='userId'] is displayed
+14/08/2022 20:30:56 - INFO - testcases.test_01_login: //input[@name='password']
+14/08/2022 20:30:56 - DEBUG - testcases.test_01_login: //input[@name='password'] is displayed
+14/08/2022 20:30:56 - INFO - testcases.test_01_login: //p[.='User ID or Password is either incorrect or left blank']
+14/08/2022 20:30:56 - INFO - testcases.test_01_login: //button[@value='legacy']
+14/08/2022 20:30:57 - DEBUG - testcases.test_01_login: //button[@value='legacy'] not is enabled
+14/08/2022 20:30:57 - INFO - testcases.test_01_login: //h6[normalize-space()='or login with']
+14/08/2022 20:30:57 - DEBUG - testcases.test_01_login: //h6[normalize-space()='or login with'] is displayed
+14/08/2022 20:30:57 - INFO - testcases.test_01_login: (//button[@type='button'])[.='Google SSO']
+14/08/2022 20:30:57 - DEBUG - testcases.test_01_login: (//button[@type='button'])[.='Google SSO'] is displayed
+14/08/2022 20:30:57 - INFO - testcases.test_01_login: (//button[@type='button'])[.='SAML']
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: (//button[@type='button'])[.='SAML'] is displayed
+14/08/2022 20:30:58 - INFO - testcases.test_01_login: ********** test_02_verify_login_page_elems passed **********
+14/08/2022 20:30:58 - INFO - testcases.test_01_login: ********** Starting test_03_verify_login_page_elems_text **********
+14/08/2022 20:30:58 - INFO - testcases.test_01_login: ********** Verifying elements text on Login Page **********
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: elem index: 0
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: elem text: 
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: //img[@title='Ameyo'] text not available
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: elem index: 1
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: elem text: Customer Experience Platform
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: //h6[normalize-space()='Customer Experience Platform'] text is matching
+14/08/2022 20:30:58 - DEBUG - testcases.test_01_login: elem index: 2
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: elem text: That Helps Enterprises Connect, Serve and Support their Customers
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: //h5[contains(text(),'That Helps Enterprises Connect, Serve and Support ')] text is matching
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: elem index: 3
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: elem text: 2021 © Ameyo. Contact center software
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: //span[contains(text(),'Contact center software')] text is matching
+14/08/2022 20:30:59 - DEBUG - testcases.test_01_login: elem index: 4
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem text: 
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: //*[name()='path' and contains(@d,'M7.41 8.59')] text not available
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem index: 5
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem text: EN
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: //p[contains(@class, 'MuiTypography-root mx-4')] text not available
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem index: 6
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem text: 
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: //img[@alt='EN'] text not available
+14/08/2022 20:31:00 - DEBUG - testcases.test_01_login: elem index: 7
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: elem text: Welcome to Ameyo
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: //h5[contains(text(),'Welcome to Ameyo')] text is matching
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: elem index: 8
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: elem text: visibility_off
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: //span[contains(text(),'visibility_off')] text not available
+14/08/2022 20:31:01 - DEBUG - testcases.test_01_login: elem index: 9
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: elem text: User ID *
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: //label[.='User ID *'] text is matching
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: elem index: 10
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: elem text: Password *
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: //label[.='Password *'] text is matching
+14/08/2022 20:31:02 - DEBUG - testcases.test_01_login: elem index: 11
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: elem text: 
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: //input[@name='userId'] text not available
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: elem index: 12
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: elem text: 
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: //input[@name='password'] text not available
+14/08/2022 20:31:03 - DEBUG - testcases.test_01_login: elem index: 14
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem text: LOG IN
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: //button[@value='legacy'] text is matching
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem index: 15
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem text: or login with
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: //h6[normalize-space()='or login with'] text is matching
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem index: 16
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem text: Google SSO
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: (//button[@type='button'])[.='Google SSO'] text is matching
+14/08/2022 20:31:04 - DEBUG - testcases.test_01_login: elem index: 17
+14/08/2022 20:31:05 - DEBUG - testcases.test_01_login: elem text: SAML
+14/08/2022 20:31:05 - DEBUG - testcases.test_01_login: (//button[@type='button'])[.='SAML'] text is matching
+14/08/2022 20:31:05 - INFO - testcases.test_01_login: ********** test_03_verify_login_page_elems_text passed **********
+14/08/2022 20:31:05 - INFO - testcases.test_01_login: ********** Starting test_04_agent_login **********
+14/08/2022 20:31:05 - INFO - testcases.test_01_login: ********** Agent login **********
+14/08/2022 20:31:09 - DEBUG - testcases.test_01_login: <selenium.webdriver.remote.webelement.WebElement (session="8fafd5d09b14d64e817acbbadb073554", element="39a404c0-accd-4fa6-8d61-09ce1707835e")> is displayed
+14/08/2022 20:31:10 - DEBUG - testcases.test_01_login: <selenium.webdriver.remote.webelement.WebElement (session="8fafd5d09b14d64e817acbbadb073554", element="39a404c0-accd-4fa6-8d61-09ce1707835e")> is displayed
+14/08/2022 20:31:16 - DEBUG - testcases.test_01_login: Login unsuccessful
+14/08/2022 20:31:16 - DEBUG - testcases.test_01_login: User ID or Password is either incorrect or left blank is displayed
+14/08/2022 20:31:17 - DEBUG - testcases.test_01_login: <selenium.webdriver.remote.webelement.WebElement (session="8fafd5d09b14d64e817acbbadb073554", element="7cf6a7f5-8651-4022-9023-6668d828956f")> is displayed
+14/08/2022 20:31:17 - DEBUG - testcases.test_01_login: <selenium.webdriver.remote.webelement.WebElement (session="8fafd5d09b14d64e817acbbadb073554", element="dafccf27-9d9d-45e9-899a-51c5be3e746c")> is displayed
+14/08/2022 20:31:46 - DEBUG - testcases.test_01_login: Login Successful
+14/08/2022 20:31:46 - DEBUG - testcases.test_01_login: Login Successful
+14/08/2022 20:32:02 - DEBUG - testcases.test_01_login: Login Successful
+14/08/2022 20:32:17 - DEBUG - testcases.test_01_login: Login Successful
+14/08/2022 20:32:17 - INFO - testcases.test_01_login: ********** test_04_agent_login passed **********
