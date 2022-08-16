@@ -64,3 +64,6 @@ class BaseDriver:
 
     def take_elem_screeshot2(self, elem, ss_location):
         elem.screenshot(ss_location)
+
+    def take_elem_screeshot3(self, elem, ss_location):
+        elem.screenshot(ss_location)
