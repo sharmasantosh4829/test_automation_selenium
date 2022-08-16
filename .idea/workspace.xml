@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c89132-8d37-4518-bfe5-b03476f279ee" name="Changes" comment="" />
+    <list default="true" id="c4c89132-8d37-4518-bfe5-b03476f279ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pages/AgentHomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/AgentHomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/SelectCampaignsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/SelectCampaignsPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/SelectExtensionPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/SelectExtensionPage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

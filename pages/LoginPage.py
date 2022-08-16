@@ -3,7 +3,6 @@ __maintainer__ = ['santosh.sharma']
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from utils.logger import Logger
 
 from base.base_driver import BaseDriver
 

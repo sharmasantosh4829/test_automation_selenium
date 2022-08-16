@@ -5,7 +5,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from base.base_driver import BaseDriver
-from utils.logger import Logger
 
 
 class SelectExtensionPage(BaseDriver):
