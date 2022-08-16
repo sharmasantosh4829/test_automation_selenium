@@ -61,6 +61,3 @@ class BaseDriver:
         wait = WebDriverWait(self.driver, 20)
         list_of_elements = wait.until(EC.presence_of_all_elements_located(locator))
         return list_of_elements
-
-    def take_elem_screeshot2(self, elem, ss_location):
-        elem.screenshot(ss_location)
