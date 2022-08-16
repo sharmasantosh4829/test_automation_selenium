@@ -1,7 +1,6 @@
 __maintainer__ = ['santosh.sharma']
 
 from base.base_driver import BaseDriver
-from utils.logger import Logger
 
 
 class AgentHomePage(BaseDriver):
